@@ -1,0 +1,2 @@
+In this Program i have used choice function of random library.
+It was important for the single player mode where we can play against computer and the score are displayed at the end of the match and each round.
